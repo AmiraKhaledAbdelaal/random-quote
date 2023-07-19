@@ -1,0 +1,27 @@
+#btn1{
+    background-color: blue;
+    width: 250px;
+    height: 80px;
+    color: white;
+    transition:all 0.05s;
+    border: 0;
+    border-radius: 5px;
+    font-size: 20px;
+}
+#btn1:hover{
+    background-color:gray;
+}
+#randomimg{
+    width: 150px;
+    height: 150px;
+}
+#randomimg img{
+    border-radius: 50%;
+
+}
+h1{
+    font-size: 60px;
+}
+p{
+    font-size: 30px;
+}
